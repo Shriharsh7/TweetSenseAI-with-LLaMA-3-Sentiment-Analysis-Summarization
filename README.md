@@ -125,9 +125,9 @@ With additional time and resources, the tool could be enhanced in several ways:
 5. Run all cells to analyze a tweet.
 
 ## Sample Output 
-**Username:** BillGates 
-**Post ID:** 1902597037935497324 
-**Tweet Text:** I had a very productive meeting with @jpnadda where we discussed India’s impressive progress in public health. India’s commitment to eliminating infectious diseases, advancing maternal and child healthcare, and leveraging digital health platforms and AI, is creating healthier… [https://t.co/DPV5q1XamX](https://t.co/DPV5q1XamX) [https://t.co/ITp6Oynlaq](https://t.co/ITp6Oynlaq)
+**Username:** BillGates   
+**Post ID:** 1902597037935497324    
+**Tweet Text:** I had a very productive meeting with @jpnadda where we discussed India’s impressive progress in public health. India’s commitment to eliminating infectious diseases, advancing maternal and child healthcare, and leveraging digital health platforms and AI, is creating healthier… [https://t.co/DPV5q1XamX](https://t.co/DPV5q1XamX) [https://t.co/ITp6Oynlaq](https://t.co/ITp6Oynlaq)   
 ### LLaMA Model Analysis
 - **GPU:** Tesla T4
 - **Sentiment:** positive
