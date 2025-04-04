@@ -1,3 +1,4 @@
+
 # TweetSenseAI: Sentiment & Summary Analysis with LLaMA-3
 
 A Python-based tool that fetches tweets using the X API and analyzes them with LLaMA-3-8B for sentiment and summarization, built to run on Google Colab with a GPU. The project provides insights into the emotional tone and key points of tweets, making it valuable for social media analysis, marketing, or research.
