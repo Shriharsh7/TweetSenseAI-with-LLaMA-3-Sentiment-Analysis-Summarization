@@ -9,7 +9,7 @@ You can access the project notebook here: [TweetSenseAI Notebook](https://github
 ## Project Overview
 This project was developed to analyze tweets using advanced natural language processing techniques with the following requirements:
 - **Input**: Fetch tweet text using the X API v2 based on a tweet URL.
-- **Functionality**: Perform sentiment analysis and generate concise summaries using LLaMA-3-8B.
+- **Functionality**: Perform sentiment analysis and generate concise summaries using LLaMA-3-8B.  
 - **Output**: Provide sentiment (e.g., positive, negative, neutral, happy, sad, angry, excited) and a one-sentence summary for each tweet.
 - **Deliverables**: A functional notebook on Google Colab, source code on GitHub, and clear setup instructions.
 - **Environment**: Optimized to run on Google Colab’s free Tesla T4 GPU.
